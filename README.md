@@ -29,7 +29,7 @@ Progress:
 
 ## Week 1 (Mar 16 – Mar 22) — Arrays
 
-- [ ] Two Sum
+- [x] Two Sum
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Maximum Subarray
 - [ ] Product of Array Except Self
