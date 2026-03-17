@@ -30,7 +30,7 @@ Progress:
 ## Week 1 (Mar 16 – Mar 22) — Arrays
 
 - [x] Two Sum
-- [ ] Best Time to Buy and Sell Stock
+- [x] Best Time to Buy and Sell Stock , Hard level pending(cover in DP)
 - [ ] Maximum Subarray
 - [ ] Product of Array Except Self
 - [ ] Move Zeroes

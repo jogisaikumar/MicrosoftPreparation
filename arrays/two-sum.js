@@ -99,3 +99,27 @@ function pointerTwoSum(nums, target){
     return [];
 }
 console.log(pointerTwoSum([1,2,3,4,5,6,7], 10));
+
+
+// return all the pairs that add up to a target in a sorted array
+function twoSumPairs(arr, tar) {
+   const pairs = [];
+   let left = 0;
+   let right = arr.length - 1;
+   while(left < right){
+       let sum = arr[left] + arr[right];
+       if(sum === tar){
+           pairs.push([arr[left], arr[right]]);
+           left++;
+           right--;
+       } 
+       else if(sum < tar){
+           left++;
+       }else {
+           right--;
+       }
+   }
+   return pairs;
+}
+
+console.log(twoSumPairs([1,2,3,4,5,6,7],10));
