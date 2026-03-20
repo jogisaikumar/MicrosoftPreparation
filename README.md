@@ -31,8 +31,8 @@ Progress:
 
 - [x] Two Sum
 - [x] Best Time to Buy and Sell Stock , Hard level pending(cover in DP)
-- [ ] Maximum Subarray
-- [ ] Product of Array Except Self
+- [x] Maximum Subarray
+- [x] Product of Array Except Self
 - [ ] Move Zeroes
 - [ ] Missing Number
 - [ ] Weekly Review
