@@ -33,8 +33,8 @@ Progress:
 - [x] Best Time to Buy and Sell Stock , Hard level pending(cover in DP)
 - [x] Maximum Subarray
 - [x] Product of Array Except Self
-- [ ] Move Zeroes
-- [ ] Missing Number
+- [x] Move Zeroes
+- [x] Missing Number
 - [ ] Weekly Review
 
 ## Week 2 (Mar 23 – Mar 29) — HashMaps
